@@ -12,6 +12,9 @@ Project "Shop Smart" -: Shop Smart is a solution that brings the online and the 
 1) Gson library by Google to counsume mock data for stores/items.
 2) Google Maps v2 API by Google to display stores.
 3) Barcode scanning library for Android, using ZXing for decoding.
+4) ListView with CardView to display store items. 
+5) WebView to display the websites of stores and redirect payments.
+6) ConstraintLayout for app screens.
 
 
 

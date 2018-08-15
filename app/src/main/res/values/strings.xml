@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Shop Smart</string>
+    <string name="title_home">Near By</string>
+    <string name="title_dashboard">Scan</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_store_items">Shop Smart</string>
+
+    <string name="shirt1">Cotton Drill Top</string>
+    <string name="shirt2">Casual T-Shirt</string>
+    <string name="shirt3">Nike Cotton Polo</string>
+    <string name="shirt4">Short Sleeve Tee</string>
+    <string name="pants5">Core Fleece Pants</string>
+    <string name="cap6">Heritage Cap</string>
+
+    <string name="shirt1_sub" formatted="false">$25 Sizes: M,L,XL and XXL</string>
+    <string name="shirt2_sub" formatted="false">$45 Sizes: XL and XXL</string>
+    <string name="shirt3_sub" formatted="false">$34 Sizes: M, XL and XXL</string>
+    <string name="shirt4_sub" formatted="false">$55 Sizes: XL</string>
+    <string name="pants5_sub" formatted="false">$60 Sizes: 36 and 38</string>
+    <string name="cap6_sub" formatted="false">$49 </string>
+
+    <string name="title_activity_item_data">Shop Smart</string>
+
+    <string name="store_data_shop" formatted="false">Shop</string>
+    <string name="store_data_phone" formatted="false">Phone: </string>
+    <string name="store_data_email" formatted="false">Email: </string>
+    <string name="store_data_address" formatted="false">Address: </string>
+    <string name="store_data_hours" formatted="false">Working Hours: </string>
+
+    <string name="item_data_item" formatted="false">Pay</string>
+    <string name="item_data_prize" formatted="false">Prize: </string>
+    <string name="item_data_size" formatted="false">Size: </string>
+    <string name="item_data_candm" formatted="false">Color and Material: </string>
+    <string name="item_data_offers" formatted="false">Offers: </string>
+</resources>
